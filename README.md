@@ -1,4 +1,4 @@
-## Invoice Accounting (Java Project Task About Invoice Accounting)
+## Invoice Accounting
 
 ---
 
