@@ -2,16 +2,6 @@
 
 ---
 
-#### Assigned by:
-
-```
-Higher Education Institution: Faculty of Electrical Engineering and Computer Science, University of Maribor
-Study Programme: Computer Science and Information Technologies (First Cycle Bologna Study Programmes, Academic-Degree Study Programmes)
-Course Unit: Principles of Programming Languages
-```
-
----
-
 #### About:
 
 ```
