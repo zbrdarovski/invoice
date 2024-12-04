@@ -1,0 +1,134 @@
+[
+  {
+    "id": "d8e9c786-21df-441a-8fa2-8578d493e310",
+    "items": {
+      "3424565473432": {
+        "id": "aa53c9b8-8251-47ed-9a0d-4bb86166f9a6",
+        "barcode": "3424565473432",
+        "name": "CHIPS",
+        "price": 1.0512,
+        "amount": 1,
+        "discount": 0,
+        "vatRate": 0.095,
+        "created": {
+          "date": {
+            "year": 2020,
+            "month": 5,
+            "day": 20
+          },
+          "time": {
+            "hour": 9,
+            "minute": 0,
+            "second": 7,
+            "nano": 999553800
+          }
+        },
+        "modified": {
+          "date": {
+            "year": 2020,
+            "month": 5,
+            "day": 20
+          },
+          "time": {
+            "hour": 9,
+            "minute": 0,
+            "second": 8,
+            "nano": 4550700
+          }
+        }
+      }
+    },
+    "created": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 20
+      },
+      "time": {
+        "hour": 9,
+        "minute": 0,
+        "second": 8,
+        "nano": 2552600
+      }
+    },
+    "modified": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 20
+      },
+      "time": {
+        "hour": 9,
+        "minute": 0,
+        "second": 8,
+        "nano": 4550700
+      }
+    }
+  },
+  {
+    "id": "c0effa85-24b1-494f-88e1-161aa60d0f3f",
+    "items": {
+      "3424565473432": {
+        "id": "a2043105-195d-49a6-94e9-a84b98246b35",
+        "barcode": "3424565473432",
+        "name": "CHIPS",
+        "price": 1.0512,
+        "amount": 1,
+        "discount": 0,
+        "vatRate": 0.095,
+        "created": {
+          "date": {
+            "year": 2020,
+            "month": 5,
+            "day": 20
+          },
+          "time": {
+            "hour": 9,
+            "minute": 1,
+            "second": 24,
+            "nano": 823744600
+          }
+        },
+        "modified": {
+          "date": {
+            "year": 2020,
+            "month": 5,
+            "day": 20
+          },
+          "time": {
+            "hour": 9,
+            "minute": 1,
+            "second": 24,
+            "nano": 828744700
+          }
+        }
+      }
+    },
+    "created": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 20
+      },
+      "time": {
+        "hour": 9,
+        "minute": 1,
+        "second": 24,
+        "nano": 826745700
+      }
+    },
+    "modified": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 20
+      },
+      "time": {
+        "hour": 9,
+        "minute": 1,
+        "second": 24,
+        "nano": 828744700
+      }
+    }
+  }
+]

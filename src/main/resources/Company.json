@@ -1,0 +1,42 @@
+[
+  {
+    "id": "8459cd6a-92c7-476f-af2a-b7cfe551bb6a",
+    "name": "COMPANY",
+    "taxNumber": "",
+    "registrationNumber": "15768923000",
+    "taxpayer": false,
+    "created": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 20
+      },
+      "time": {
+        "hour": 9,
+        "minute": 0,
+        "second": 8,
+        "nano": 1555000
+      }
+    }
+  },
+  {
+    "id": "347ba2a7-15a0-40c3-8e0e-82f3e53e8d03",
+    "name": "COMPANY",
+    "taxNumber": "",
+    "registrationNumber": "15768923000",
+    "taxpayer": false,
+    "created": {
+      "date": {
+        "year": 2020,
+        "month": 5,
+        "day": 20
+      },
+      "time": {
+        "hour": 9,
+        "minute": 1,
+        "second": 24,
+        "nano": 825747200
+      }
+    }
+  }
+]

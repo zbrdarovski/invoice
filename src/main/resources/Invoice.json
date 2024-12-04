@@ -1,0 +1,266 @@
+[
+  {
+    "id": "0e0a4677-c092-42de-a352-647e55700b3f",
+    "issuer": {
+      "id": "e7903414-4cbd-4c37-ad01-06532c63041e",
+      "name": "MARKET",
+      "taxNumber": "32156782",
+      "registrationNumber": "5571693000",
+      "taxpayer": true,
+      "created": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 0,
+          "second": 8,
+          "nano": 1555000
+        }
+      }
+    },
+    "placeOfIssue": "New York",
+    "created": {
+      "date": {
+        "year": 2020,
+        "month": 3,
+        "day": 4
+      },
+      "time": {
+        "hour": 17,
+        "minute": 3,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "customer": {
+      "id": "8459cd6a-92c7-476f-af2a-b7cfe551bb6a",
+      "name": "COMPANY",
+      "taxNumber": "",
+      "registrationNumber": "15768923000",
+      "taxpayer": false,
+      "created": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 0,
+          "second": 8,
+          "nano": 1555000
+        }
+      }
+    },
+    "cashier": "Bl 154",
+    "items": {
+      "id": "d8e9c786-21df-441a-8fa2-8578d493e310",
+      "items": {
+        "3424565473432": {
+          "id": "aa53c9b8-8251-47ed-9a0d-4bb86166f9a6",
+          "barcode": "3424565473432",
+          "name": "CHIPS",
+          "price": 1.0512,
+          "amount": 1,
+          "discount": 0,
+          "vatRate": 0.095,
+          "created": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 20
+            },
+            "time": {
+              "hour": 9,
+              "minute": 0,
+              "second": 7,
+              "nano": 999553800
+            }
+          },
+          "modified": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 20
+            },
+            "time": {
+              "hour": 9,
+              "minute": 0,
+              "second": 8,
+              "nano": 4550700
+            }
+          }
+        }
+      },
+      "created": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 0,
+          "second": 8,
+          "nano": 2552600
+        }
+      },
+      "modified": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 0,
+          "second": 8,
+          "nano": 4550700
+        }
+      }
+    },
+    "total": 1.0512,
+    "typeOfPayment": "cash",
+    "paid": 1.2,
+    "returned": 0.1488,
+    "invoiceNumber": "32156782-100-10002",
+    "zoi": "da74f74ed1bd5e8e8d7f630035914c6a",
+    "eor": "a2893481-bddc-4a61-73d0-3215e6795671",
+    "barcode": "26400812165400280059200304170342"
+  },
+  {
+    "id": "9f4c5658-0df9-4fe1-80eb-ba72928f1850",
+    "issuer": {
+      "id": "cb42b765-6882-4090-990b-ecb8377f39f2",
+      "name": "MARKET",
+      "taxNumber": "32156782",
+      "registrationNumber": "5571693000",
+      "taxpayer": true,
+      "created": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 1,
+          "second": 24,
+          "nano": 825747200
+        }
+      }
+    },
+    "placeOfIssue": "New York",
+    "created": {
+      "date": {
+        "year": 2020,
+        "month": 3,
+        "day": 4
+      },
+      "time": {
+        "hour": 17,
+        "minute": 3,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "customer": {
+      "id": "347ba2a7-15a0-40c3-8e0e-82f3e53e8d03",
+      "name": "COMPANY",
+      "taxNumber": "",
+      "registrationNumber": "15768923000",
+      "taxpayer": false,
+      "created": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 1,
+          "second": 24,
+          "nano": 825747200
+        }
+      }
+    },
+    "cashier": "Bl 154",
+    "items": {
+      "id": "c0effa85-24b1-494f-88e1-161aa60d0f3f",
+      "items": {
+        "3424565473432": {
+          "id": "a2043105-195d-49a6-94e9-a84b98246b35",
+          "barcode": "3424565473432",
+          "name": "CHIPS",
+          "price": 1.0512,
+          "amount": 1,
+          "discount": 0,
+          "vatRate": 0.095,
+          "created": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 20
+            },
+            "time": {
+              "hour": 9,
+              "minute": 1,
+              "second": 24,
+              "nano": 823744600
+            }
+          },
+          "modified": {
+            "date": {
+              "year": 2020,
+              "month": 5,
+              "day": 20
+            },
+            "time": {
+              "hour": 9,
+              "minute": 1,
+              "second": 24,
+              "nano": 828744700
+            }
+          }
+        }
+      },
+      "created": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 1,
+          "second": 24,
+          "nano": 826745700
+        }
+      },
+      "modified": {
+        "date": {
+          "year": 2020,
+          "month": 5,
+          "day": 20
+        },
+        "time": {
+          "hour": 9,
+          "minute": 1,
+          "second": 24,
+          "nano": 828744700
+        }
+      }
+    },
+    "total": 1.0512,
+    "typeOfPayment": "cash",
+    "paid": 1.2,
+    "returned": 0.1488,
+    "invoiceNumber": "32156782-100-10002",
+    "zoi": "da74f74ed1bd5e8e8d7f630035914c6a",
+    "eor": "a2893481-bddc-4a61-73d0-3215e6795671",
+    "barcode": "26400812165400280059200304170342"
+  }
+]
