@@ -89,7 +89,7 @@ Explanation:
 * [Java - Documentation Comments - Tutorialspoint](https://www.tutorialspoint.com/java/java_documentation.htm) (added 06-05-2020)
 * [DBCP Connection Pooling Example](https://examples.javacodegeeks.com/core-java/apache/commons/dbcp/dbcp-connection-pooling-example/) (added 26-05-2020)
 * [A Simple Guide to Connection Pooling in Java](https://www.baeldung.com/java-connection-pooling) (added 26-05-2020)
-**NOTICE:** *The above links were available on the date they were* **added** *and currently might be unavailable!*
+> NOTICE: The above links were available on the date they were added and currently might be unavailable!
 > I am sorry for the inconvenience!
 
 ---
