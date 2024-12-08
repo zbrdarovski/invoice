@@ -74,6 +74,14 @@ Explanation:
 
 ---
 
+### License
+
+```
+This project is not licensed for public use. The code is protected by copyright law.  
+Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing the code is strictly prohibited.
+```
+---
+
 ###### Useful Links:
 * [Markdown Cheat Sheet](https://commonmark.org/help/) (added: 14-03-2020)
 * [Java Naming Conventions - GeeksforGeeks](https://www.geeksforgeeks.org/java-naming-conventions/) (added: 16-03-2020)
